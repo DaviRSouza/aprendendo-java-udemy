@@ -16,7 +16,7 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        List<TaxPayer> list = new ArrayList<TaxPayer>();
+        List<TaxPayer> list = new ArrayList<>();
         System.out.print("Enter the number of taxpayers: ");
         int N = sc.nextInt();
         for (int i = 1; i <= N; i++) {
