@@ -1,4 +1,4 @@
-package postAndComments.model.entities;
+package composition2.model.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

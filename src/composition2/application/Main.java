@@ -1,7 +1,7 @@
-package postAndComments.application;
+package composition2.application;
 
-import postAndComments.model.entities.Comment;
-import postAndComments.model.entities.Post;
+import composition2.model.entities.Comment;
+import composition2.model.entities.Post;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

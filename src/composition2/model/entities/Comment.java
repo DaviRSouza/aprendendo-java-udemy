@@ -1,4 +1,4 @@
-package postAndComments.model.entities;
+package composition2.model.entities;
 
 public class Comment {
     private String text;

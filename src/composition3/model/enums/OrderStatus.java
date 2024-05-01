@@ -1,4 +1,4 @@
-package enums1.model.enums;
+package composition3.model.enums;
 
 public enum OrderStatus {
     PENDING_PAYMENT,
